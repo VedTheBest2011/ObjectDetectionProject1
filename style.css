@@ -1,0 +1,31 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+#living_room
+{
+    border-radius: 50px;
+    width: 50%;
+}
+#kitchen
+{
+    border-radius: 50px;
+    width: 50%;
+}
+#study_table
+{
+    border-radius: 50px;
+    width: 50%;
+}
+#bunk_bed
+{
+    border-radius: 50px;
+    width: 50%;
+}
+
+#text
+{
+    font-style: red;
+}
